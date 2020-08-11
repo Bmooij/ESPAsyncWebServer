@@ -23,6 +23,7 @@
     },
     {
       "name": "AsyncTCP",
+      "version": "https://github.com/Bmooij/AsyncTCP.git",
       "platforms": "espressif32"
     },
     {
